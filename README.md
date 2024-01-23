@@ -34,6 +34,14 @@ Please, note this is a bilingual repository, so not all the content is made in e
 - [Checkmarx](https://checkmarx.com/) [Pay]
 - [Semgrep](https://semgrep.dev/) [Pay]
 - [Veracode](https://www.veracode.com/) [Pay]
+- [Snyk](https://snyk.io/pt-BR/) [Pay]
+- [Horus](https://horusec.io/site/) [OpenSource]
+- [ShiftLeft Scan](https://github.com/ShiftLeftSecurity/sast-scan) [OpenSource]
+- [Safety](https://safetycli.com/product/safety-cli?utm_source=pyupio&utm_medium=redirect&utm_campaign=pyup_rd&utm_id=0817&utm_content=marketing) [OpenSource]
+
+## Learn
+
+- [SecureFlag](https://www.secureflag.com/](https://www.secureflag.com/owasp) [Pay - Owasp Member)
 
 ## License
 
