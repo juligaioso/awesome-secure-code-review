@@ -26,7 +26,7 @@ Please, note this is a bilingual repository, so not all the content is made in e
 
 ## Learn
 
-- [SecureFlag](https://www.secureflag.com/] [Pay - Owasp Member]
+- [SecureFlag](https://www.secureflag.com/) [Pay - Owasp Member]
 
 ## Talks
 
