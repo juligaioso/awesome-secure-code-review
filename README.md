@@ -26,6 +26,7 @@ Please, note this is a bilingual repository, so not all the content is made in e
 
 ## Learn
 
+- [Documentação de desenvolvimento seguro - Microsoft](https://learn.microsoft.com/pt-br/azure/security/develop/) [Free]
 - [SecureFlag](https://www.secureflag.com/) [Pay - Owasp Member]
 
 ## Talks
