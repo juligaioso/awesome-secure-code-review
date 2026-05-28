@@ -37,13 +37,14 @@ Please, note this is a bilingual repository, so not all the content is made in e
 
 ## Tools
 
-- [Checkmarx](https://checkmarx.com/) [Pay]
-- [Horus](https://horusec.io/site/) [OpenSource]
-- [Safety](https://safetycli.com/product/safety-cli?utm_source=pyupio&utm_medium=redirect&utm_campaign=pyup_rd&utm_id=0817&utm_content=marketing) [OpenSource]
-- [Semgrep](https://semgrep.dev/) [Pay]
-- [ShiftLeft Scan](https://github.com/ShiftLeftSecurity/sast-scan) [OpenSource]
-- [Snyk](https://snyk.io/pt-BR/) [Pay]
-- [Veracode](https://www.veracode.com/) [Pay]
+* [Checkmarx](https://checkmarx.com/) [Pay]
+* [Horus](https://horusec.io/) [OpenSource]
+* [Kodus](https://kodus.io/) [OpenSource]
+* [Safety](https://safetycli.com/) [OpenSource]
+* [Semgrep](https://semgrep.dev/) [Pay]
+* [ShiftLeft Scan](https://github.com/ShiftLeftSecurity/sast-scan) [OpenSource]
+* [Snyk](https://snyk.io/) [Pay]
+* [Veracode](https://www.veracode.com/) [Pay]
 
 ## License
 
