@@ -39,6 +39,7 @@ Please, note this is a bilingual repository, so not all the content is made in e
 
 - [Checkmarx](https://checkmarx.com/) [Pay]
 - [Horus](https://horusec.io/site/) [OpenSource]
+- [heygrc](https://heygrc.com/) [Pay]
 - [Safety](https://safetycli.com/product/safety-cli?utm_source=pyupio&utm_medium=redirect&utm_campaign=pyup_rd&utm_id=0817&utm_content=marketing) [OpenSource]
 - [Semgrep](https://semgrep.dev/) [Pay]
 - [ShiftLeft Scan](https://github.com/ShiftLeftSecurity/sast-scan) [OpenSource]
