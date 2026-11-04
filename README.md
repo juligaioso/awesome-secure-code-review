@@ -24,10 +24,15 @@ Please, note this is a bilingual repository, so not all the content is made in e
 - [The developer's guite to a secure code review](https://www.tabnine.com/blog/the-developers-guide-to-a-secure-code-review/) [EN] 
 - [What Is Secure Code Review? Process, Tools, and Best Practices](https://www.aquasec.com/cloud-native-academy/devsecops/secure-code-review/) [EN]
 
+## Book
+
+- [CVE Archeologist's Field Guide: Methodology and lessons from 10 vulnerability analyses](https://www.amazon.com/CVE-Archeologists-Field-Guide-vulnerability/dp/B0GMVXM7S1/)
+
 ## Learn
 
 - [Documentação de desenvolvimento seguro - Microsoft](https://learn.microsoft.com/pt-br/azure/security/develop/) [Free]
 - [SecureFlag](https://www.secureflag.com/) [Pay - Owasp Member]
+- [Security Code Review Training](https://pentesterlab.com/training/on-demand/web-security-code-review)[Paid]
 
 ## Talks
 
